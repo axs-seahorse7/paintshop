@@ -1,0 +1,8 @@
+videos/
+training_data/
+*.mp4
+*.zip
+*.avi
+__pycache__/
+*.pyc
+.vscode/
